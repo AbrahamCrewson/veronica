@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne&display=swap');
+#Navbar{
+    background: #0A0F21;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    border-bottom: 1px solid #FFFFFF;
+    height: calc(1vh + 131px);
+    font-family: 'Syne', sans-serif;
+    position: relative;
+    z-index:10;
+}
+#nav-logo{
+    width: 76px;
+    height: 76px;
+    margin-left:  7vw;
+}
+.join-waitlist{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 39px;
+    gap: 10px;
+    width: 240px;
+    height: 67px;
+    background: linear-gradient(180deg, #FFFFFF 0%, #BD9FAE 100%);
+    border-radius: 4px;
+    border:none;
+   
+}
+#nav-join{
+     margin-right: 3vw;
+}
+.join-waitlist h2{
+    
+    font-weight: 800;
+    font-size: 16px;
+     background: radial-gradient(136.09% 180.79% at 48.82% 20.19%, #051856 0%, #000000 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+   
+}
+#Navbar a{
+    text-decoration: none;
+}
+#Navbar a :hover{
+    cursor: pointer;
+}
+@media screen and (max-width: 800px){
+    #nav-join{
+        display: none;
+    }
+    #Navbar{
+        justify-content: center;
+
+        border-bottom: none;
+    }
+    #nav-logo{
+        margin-left: 0;
+    }
+}
