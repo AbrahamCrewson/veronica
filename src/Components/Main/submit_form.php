@@ -1,8 +1,8 @@
 <?php
+$text = $_POST['email'];
 
-if($_POST["email"]){
-    mail("sneakynoodles@gmail.com","subject line",$_POST["email"]."From: sneakynoodles@gmail.com");
-}
+echo( mail("sneakynoodles@gmail.com","subject line",$text));
+
 
 ?>
   

@@ -81,13 +81,14 @@ class Main extends React.Component{
                 <div id="section4">
                     <h2>Get Updates on V.</h2>
                     <h6>we'll let you know when we launch, just put your email below to subscribe to our mailiing list. it’s free.</h6>
-                    <div id="Waitlist">
-                        <form action="src/Components/Main/submit_form.php" method="POST" >
-                           <input type="email" name="email"  placeholder="   Email" required=""></input> 
-                           <button type="submit" >Subscribe Now</button>
                     
+                        <form action="submit_form.php" method="POST" name="email-form">
+                            <div id="Waitlist">
+                            <input type="text" name="email"  placeholder="   Email" required=""></input> 
+                            <button type="submit" >Subscribe Now</button>
+                            </div> 
                         </form>
-                       </div> 
+                       
                         
                 </div>
                 <div id="section5">
