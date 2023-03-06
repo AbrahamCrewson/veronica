@@ -82,7 +82,7 @@ class Main extends React.Component{
                     <h2>Get Updates on V.</h2>
                     <h6>we'll let you know when we launch, just put your email below to subscribe to our mailiing list. it’s free.</h6>
                     <div id="Waitlist">
-                        <form action="submit_form.php" method="POST" >
+                        <form action="src/Components/Main/submit_form.php" method="POST" >
                            <input type="email" name="email"  placeholder="   Email" required=""></input> 
                            <button type="submit" >Subscribe Now</button>
                     
