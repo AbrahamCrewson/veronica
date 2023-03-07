@@ -8,7 +8,7 @@ class Navbar extends React.Component{
         return(
             <div id='Navbar'>
                 <img id="nav-logo" src={logo}alt='logo'></img>
-                <a href="#Waitlist"><button className ="join-waitlist" id='nav-join'><h2>Join Waitlist</h2></button></a>
+                <a href="#Waitlist"><button className ="join-waitlist" id='nav-join'><h2>Join The Waitlist</h2></button></a>
             </div>
         );
     }

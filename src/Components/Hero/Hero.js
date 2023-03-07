@@ -13,7 +13,7 @@ class Hero extends React.Component{
                     <h1 id="hero-title2">Ai Therapy</h1>
                     <h2 id="hero-desc">Speak directly to Veronica and get a verbal response, just like talking to a real person.</h2>
                     <div id="hero-buttons">
-                        <a href="#Waitlist"><button className ="join-waitlist" id="hero-join"><h2>Join Waitlist</h2></button></a>
+                        <a href="#Waitlist"><button className ="join-waitlist" id="hero-join"><h2>Join The Waitlist</h2></button></a>
                         <a href="https://twitter.com/ThreeAI_" target="_blank"  rel="noreferrer" ><button className ="twitter" id="hero-twitter"><img src={twitter} alt=""></img><h2>Twitter</h2></button></a>
 
                     </div>

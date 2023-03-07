@@ -69,7 +69,7 @@ class Main extends React.Component{
                     <div id="main-grid">
                         <div className='main-griditem'><h4>PERSONALIZED MENTAL HEALTH</h4></div>
                         <div className='main-griditem'><h4>COPING STRATEGIES FOR ANXIETY</h4></div>
-                        <div className='main-griditem'><h4>EMOTIONAL SUPPORTFOR DEPRESSION</h4></div>
+                        <div className='main-griditem'><h4>EMOTIONAL SUPPORT FOR DEPRESSION</h4></div>
                         <div className='main-griditem'><h4>MINDFULNESS & RELAXATION</h4></div>
                         
                         <div className='main-griditem'><h4>SELF CARE & STRESS MANAGEMENT</h4></div>
@@ -80,11 +80,11 @@ class Main extends React.Component{
                 </div>
                 <div id="section4">
                     <h2>Get Updates on V.</h2>
-                    <h6>we'll let you know when we launch, just put your email below to subscribe to our mailiing list. it’s free.</h6>
+                    <h6>We'll let you know when we launch, just put your email below to subscribe to our mailiing list. It’s free.</h6>
                     
-                        <form action="submit_form.php" method="POST" name="email-form">
+                        <form action="https://getform.io/f/88c394dd-5f57-4bc5-ae4e-018a4fc05f57" method="POST" name="email-form">
                             <div id="Waitlist">
-                            <input type="text" name="email"  placeholder="   Email" required=""></input> 
+                            <input type="email" name="email"  placeholder="   Email" required=""></input> 
                             <button type="submit" >Subscribe Now</button>
                             </div> 
                         </form>
@@ -94,10 +94,7 @@ class Main extends React.Component{
                 <div id="section5">
                     <div id="footer">
                         <p>@2023 iii.ai All rights reserved </p>
-                        <div>
-                            <a href="">Terms & Agreements</a>
-                            <a href="">Privacy Policy</a>
-                        </div>
+                        
                         
                     </div>
                 </div>
