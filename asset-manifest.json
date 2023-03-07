@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/veronica/static/css/main.5aca5f98.css",
-    "main.js": "/veronica/static/js/main.068bbbf0.js",
+    "main.css": "/veronica/static/css/main.ce1809e8.css",
+    "main.js": "/veronica/static/js/main.07693647.js",
     "static/js/787.a7a567c5.chunk.js": "/veronica/static/js/787.a7a567c5.chunk.js",
     "static/media/gradient.png": "/veronica/static/media/gradient.e060afc60cb2547406e9.png",
     "static/media/veronica.png": "/veronica/static/media/veronica.8c60647c7d56b59d1443.png",
     "static/media/Syne-VariableFont_wght.ttf": "/veronica/static/media/Syne-VariableFont_wght.e69399d74a7f3f11a975.ttf",
     "static/media/Barlow-Regular.ttf": "/veronica/static/media/Barlow-Regular.e7eb634d040a6f384033.ttf",
     "index.html": "/veronica/index.html",
-    "main.5aca5f98.css.map": "/veronica/static/css/main.5aca5f98.css.map",
-    "main.068bbbf0.js.map": "/veronica/static/js/main.068bbbf0.js.map",
+    "main.ce1809e8.css.map": "/veronica/static/css/main.ce1809e8.css.map",
+    "main.07693647.js.map": "/veronica/static/js/main.07693647.js.map",
     "787.a7a567c5.chunk.js.map": "/veronica/static/js/787.a7a567c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aca5f98.css",
-    "static/js/main.068bbbf0.js"
+    "static/css/main.ce1809e8.css",
+    "static/js/main.07693647.js"
   ]
 }
