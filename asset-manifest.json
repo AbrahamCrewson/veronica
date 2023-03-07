@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/www.veronicaai.com/static/css/main.c8349515.css",
-    "main.js": "/www.veronicaai.com/static/js/main.01a27e86.js",
-    "static/js/787.a7a567c5.chunk.js": "/www.veronicaai.com/static/js/787.a7a567c5.chunk.js",
-    "static/media/gradient.png": "/www.veronicaai.com/static/media/gradient.e060afc60cb2547406e9.png",
-    "static/media/veronica.png": "/www.veronicaai.com/static/media/veronica.8c60647c7d56b59d1443.png",
-    "static/media/Syne-VariableFont_wght.ttf": "/www.veronicaai.com/static/media/Syne-VariableFont_wght.e69399d74a7f3f11a975.ttf",
-    "static/media/Barlow-Regular.ttf": "/www.veronicaai.com/static/media/Barlow-Regular.e7eb634d040a6f384033.ttf",
-    "index.html": "/www.veronicaai.com/index.html",
-    "main.c8349515.css.map": "/www.veronicaai.com/static/css/main.c8349515.css.map",
-    "main.01a27e86.js.map": "/www.veronicaai.com/static/js/main.01a27e86.js.map",
-    "787.a7a567c5.chunk.js.map": "/www.veronicaai.com/static/js/787.a7a567c5.chunk.js.map"
+    "main.css": "/veronica/static/css/main.ce1809e8.css",
+    "main.js": "/veronica/static/js/main.07693647.js",
+    "static/js/787.a7a567c5.chunk.js": "/veronica/static/js/787.a7a567c5.chunk.js",
+    "static/media/gradient.png": "/veronica/static/media/gradient.e060afc60cb2547406e9.png",
+    "static/media/veronica.png": "/veronica/static/media/veronica.8c60647c7d56b59d1443.png",
+    "static/media/Syne-VariableFont_wght.ttf": "/veronica/static/media/Syne-VariableFont_wght.e69399d74a7f3f11a975.ttf",
+    "static/media/Barlow-Regular.ttf": "/veronica/static/media/Barlow-Regular.e7eb634d040a6f384033.ttf",
+    "index.html": "/veronica/index.html",
+    "main.ce1809e8.css.map": "/veronica/static/css/main.ce1809e8.css.map",
+    "main.07693647.js.map": "/veronica/static/js/main.07693647.js.map",
+    "787.a7a567c5.chunk.js.map": "/veronica/static/js/787.a7a567c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8349515.css",
-    "static/js/main.01a27e86.js"
+    "static/css/main.ce1809e8.css",
+    "static/js/main.07693647.js"
   ]
 }
