@@ -1,8 +1,8 @@
 #hero{
     background: #0A0F21;
-    overflow: hidden;
-    height: 87vh;
     
+    height: 87vh;
+    position: relative;
 }
 #hero-box{
     display: flex;
@@ -92,7 +92,7 @@
 }
 #hero-veronica{
     position: absolute;
-    width: 39vw;
+    width: 40rem;
     height: auto;
     right: 0;
     bottom: 0;
@@ -131,7 +131,7 @@
 }
 @media screen  and (max-width: 1700px){
     #hero{
-        overflow: hidden;
+        
         height: auto;
         position: relative;
     }

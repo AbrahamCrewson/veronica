@@ -1,0 +1,63 @@
+#intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0A0F21;
+    height: 70vh;
+}
+#intro h1{
+    color: white;
+    font-size: 3.5rem;
+    text-align: center;
+    
+}
+#acquired{
+    background: #0A0F21;
+}
+#acquired h1{
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+}
+.acquir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0A0F21;
+    height: 60vh;
+}
+.conf{
+    width: 12rem;
+}
+#leftconf{
+    transform: scaleX(-1);
+}
+.fadeIn{
+    animation:5s both  fadeIn;
+}
+@keyframes fadeIn{
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+}
+@media screen and (max-width: 1000px){
+    #acquired h1{
+        color: white;
+        font-size: 5vw;
+        
+    }
+    #intro h1{
+        color: white;
+        font-size: 6vw;
+        text-align: center;
+        
+    }
+    .conf{
+        width: 20vw;
+    }
+}
