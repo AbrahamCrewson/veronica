@@ -77,6 +77,9 @@
     background-clip: text;
 
 }
+.twitter img{
+    height: 25px;
+}
 .twitter a{
     text-decoration: none;
 }
